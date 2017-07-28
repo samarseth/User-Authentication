@@ -1,0 +1,5 @@
+com\soprasteria\auth\entities\LoginEntity.class
+com\soprasteria\auth\controller\AuthController.class
+com\soprasteria\auth\entities\AuthResponse.class
+com\soprasteria\auth\LoginAuthConfiguration.class
+com\soprasteria\auth\entities\Status.class
