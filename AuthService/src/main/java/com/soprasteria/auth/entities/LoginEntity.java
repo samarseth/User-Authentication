@@ -1,7 +1,7 @@
 package com.soprasteria.auth.entities;
 
 /**
- * Created by deearora on 7/20/2017.
+ * Created by samarseth on 7/20/2017.
  */
 public class LoginEntity {
 

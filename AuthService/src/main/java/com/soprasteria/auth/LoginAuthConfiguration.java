@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by deearora on 7/20/2017.
+ * Created by samarseth on 7/20/2017.
  */
 @SpringBootApplication
 public class LoginAuthConfiguration {

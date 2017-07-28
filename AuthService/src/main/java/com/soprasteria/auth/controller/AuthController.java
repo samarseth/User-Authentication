@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by deearora on 7/20/2017.
+ * Created by samarseth on 7/20/2017.
  */
 @Controller
 public class AuthController {
